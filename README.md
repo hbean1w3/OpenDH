@@ -1,5 +1,8 @@
 ### This is a work in progress
 
+#https://console.cloud.google.com/projectselector2/apis/dashboard?pli=1&supportedpurview=project
+#https://docs.google.com/spreadsheets/d/e/2PACX-1vRVPPfVhsI8bq9saj23OHFj5PT3q4Jwb4oKJlo3DIvWhCNQwvCBspwwh4uadWoXhX-46hBYDfn2X7Vi/pubhtml
+
 <!--
 **hbean1w3/hbean1w3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
