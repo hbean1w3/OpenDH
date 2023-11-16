@@ -99,8 +99,8 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Poppins', sans-serif;
-		font-weight: 400;
+		font-family: 'Source Sans Pro';
+		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
 		line-height: 1.75em;
@@ -1992,8 +1992,8 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Poppins', sans-serif;
-			font-weight: 200;
+			font-family: 'Font Awesome 5 Free';
+			font-weight: 400;
 		}
 
 		.icon.solid:before {
@@ -2001,7 +2001,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Poppins', sans-serif;
+			font-family: 'Font Awesome 5 Brands';
 		}
 
 		.icon:before {
@@ -2179,7 +2179,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
-		padding: 4em 0;
+		padding: 8em 0;
 		margin: 4em 0 0 0;
 	}
 
@@ -2585,7 +2585,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Poppins', sans-serif;
+						font-family: 'Font Awesome 5 Free';
 						font-weight: 900;
 					}
 
